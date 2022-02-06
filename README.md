@@ -7,10 +7,10 @@
     - 🎥 Movies & TV shows
     - 📖 Reading
 - 🌱 I’m currently learning ...
-    - 📝 New programming languages (C#, Lua)
+    - 📝 New programming languages & frameworks (C#, Typescript)
     - 🤖 AI concepts (neural nets, genetic algorithms)
     - 🕹 Game dev concepts (physics, collision, etc.)
-    - 🍻 German
+    - 🗣 German & French
     - *(And always refining my existing skills!)*
 - 💞️ I’m looking to collaborate on ...
     - 🎮 My [ai-game](https://github.com/segeeslice/ai-game) repo, an top-down ARPG being built via Love2D from the ground up
