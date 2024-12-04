@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Dustin Seger](https://segeeslice.github.io/) (segeeslice)
+- 👋 Hi, I’m [Dustin Seger](https://segeeslice.github.io/) (seg)
 - 👀 I’m interested in ...
     - 🥁 Playing drums
     - 🤓 Programming (professionally & personally)
